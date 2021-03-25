@@ -1,0 +1,8 @@
+embedding/g.py
+*ptwiki-*
+# *.wordvectors
+ignorados-pelo-git/*
+embedding/wikiextractor
+*.dat
+*.bin
+*.zip

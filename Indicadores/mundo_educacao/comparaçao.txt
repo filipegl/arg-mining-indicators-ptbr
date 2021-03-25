@@ -1,0 +1,5 @@
+da_mesma_forma
+da_mesma_maneira
+mais_que
+menos_que
+tal_qual

@@ -1,0 +1,8 @@
+a_menos_que
+a_não_ser_que
+contanto_que
+desde_que
+exceto_se
+salvo_se
+sem_que
+uma_vez_que
