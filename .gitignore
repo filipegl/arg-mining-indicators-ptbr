@@ -5,4 +5,3 @@ ignorados-pelo-git/*
 embedding/wikiextractor
 *.dat
 *.bin
-*.zip
