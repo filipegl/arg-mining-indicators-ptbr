@@ -1,0 +1,19 @@
+T1	Tese 513 731	Mas, a problemática atual dos fake news trazem uma distorção da realidade e prejudicam o indivíduo leitor; além disso, em época de eleições vem ocasionando discussões e injustiças por polarizar ideologias intolerantes.
+T2	Argumento 34 190	É notório que o saber sempre esteve atrelado às inúmeras realizações humanas, sejam elas de cunho científico, religioso, antropológico e político-econômico.
+T3	Argumento 191 396	Haja vista que o conhecimento possibilitou a humanidade conhecer os complexos da vida, também permitiu a difusão de informações pelo mundo, pois a imprensa de Gutenberg no século XV revolucionou seu tempo.
+T4	Argumento 732 1056	Primeiro, discutir acerca desse cenário é formalizar uma reflexão às negativas pelas quais o cidadão enfrentará, porque estarão sujeitos ao obscuro da internet em um espaço no qual todos podem compartilhar ideias e conteúdos, por outro lado, muitos não apresentam qualidade, autenticidade e base legal para noticiar um fato.
+T5	Argumento 1057 1234	Então, percebe-se quão difícil é a situação daqueles que buscam por informações verdadeiras, e como bem diz o escritor italiano Umberto Eco, “a internet deu voz aos ignorantes”.
+T6	Argumento 1398 1834	Segundo, o combate notícias falsas começa a partir do momento em que o caráter e a sensibilidade ao próximo estejam acima da simples conscientização, dado que o respeito é uma ação ética proliferado através da construção social, porém, o hábito em fortalecer tal cidadania é quantificar e qualificar as instituições sociais defendidas pelo sociólogo francês Émile Durkheim, tais como escola, sistema judiciário, poder policial e outros.
+T7	Argumento 1835 2082	Portanto, essa é uma questão conjuntural, efetiva e injusta, principalmente em tempos de eleições presidenciais, cujas propagandas, como exemplo das eleições nos Estados Unidos em 2016, utilizaram de informações hipócritas para difamar o oponente.
+T8	Argumento 2083 2196	Construindo, dessa maneira, um ambiente antiético, conflituoso, cheio de discussões e xingamentos desnecessários.
+T9	Argumento 2197 2366	Por último, constata-se a influência da era digital no mundo moderno e o uso para fins maliciosos dentro dessas plataformas para gerar informações dúbias e sem contexto.
+T10	PI 2425 2612	Nesse contexto, seria pertinente o corpo escolar desenvolver projetos junto à comunidade para que venham discutir a importância em buscar conhecer as fontes dos noticiários e propagandas.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T1	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T8	
+R9	Suporte Arg1:T10 Arg2:T1	

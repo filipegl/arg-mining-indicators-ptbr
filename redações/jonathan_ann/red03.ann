@@ -1,0 +1,16 @@
+T1	Tese 19 194	A participação de jovens em crimes praticados no Brasil vem crescendo assustadoramente, conforme o anuário divulgado no final de 2017 do Fórum Brasileiro de Segurança Pública.
+T2	Argumento 686 808	A educação é o caminho mais seguro para afastar os jovens da criminalidade e para prepará-los para o mercado profissional.
+T3	Argumento 928 1127	Esses programas além de permitirem ao jovem uma fonte de renda, permitirá também sua participação ao mercado de trabalho, experiência profissional, maturidade, ocupação, conhecimento e autoconfiança.
+T4	Argumento 1128 1235	Características essenciais para proporcionar ao jovem uma oportunidade de ingressar ao mercado de trabalho.
+T5	Argumento 1447 1571	O esporte ensina aos jovens a trabalhar em equipe, a disciplina, o esforço, a determinação, a perder, a ganhar e a competir.
+T6	PI 407 685	O Estado deverá criar programas para conter essa evasão, como: estimulando o jovem a importância dos estudos; melhorando as estruturas das escolas para tornar o ambiente mais agradável; investindo na formação e no salário dos professores para que esses realizem um bom trabalho.
+T7	PI 809 927	Já na área profissional, o Governo deverá incentivar as empresas a investirem em programas de aprendizagens de jovens.
+T8	PI 1572 1691	Por isso, é outra área que o Estado deverá investir para formar uma juventude com personalidade forte e com muito brio.
+T9	PI 1692 1977	Tendo em vista os aspectos observados, a solução para conter e afastar os jovens da criminalidade está no quão eficiente as ações do Governo estarão voltadas no investimento e na conciliação entre essas três áreas, pois assim, permitirá aos jovens que percorram caminhos não tortuosos.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T7 Arg2:T9	
+R5	Suporte Arg1:T6 Arg2:T9	
+R6	Suporte Arg1:T9 Arg2:T1	
+R7	Suporte Arg1:T8 Arg2:T7	

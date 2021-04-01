@@ -1,0 +1,21 @@
+T1	Tese 295 486	Nesse contexto, vale destacar dois pilares fundamentais para dirimir a alta incidência dessas moléstias, a educação e a mídia, as quais estão, na atualidade, pouco relacionadas a essa função.
+T2	Argumento 487 676	Em primeira instância, cabe pontuar que a educação como alicerce de uma sociedade, deve alcançar um fim social, pois, do contrário, se torna fútil, como já dizia o escritor Gilberto Freyre.
+T3	Argumento 677 899	No entanto, o que se percebe na contemporaneidade é que a educação não está atendendo essa função, a qual teria um impacto positivo no campo da saúde, já que consistiria na conscientização dos jovens sobre doenças sexuais.
+T4	Argumento 900 1081	Isso é perceptível no aumento da taxa de infectados entre jovens de 15 e 19 anos de idade que passou de 2,4 para 6,9 mil habitantes em 9 anos, segundo órgãos do Ministério da Saúde.
+T5	Argumento 1082 1217	Sendo assim, isso só evidencia a pouca atuação que a educação está tendo na tentativa de erradicar essas doenças entre o público jovem.
+T6	Argumento 1219 1406	Ademais, uma outra ferramenta bastante eficaz para combater tais doenças é o recurso midiático, uma vez que ela proporciona rapidez na propagação de informações e alto alcance de público.
+T7	Argumento 1407 1631	Entretanto, percebe-se uma escassa atenção da mídia frente a essa questão, pouco se discute os efeitos da alta incidência dessas doenças e, dessa forma, a população fica à mercê dos equívocos acerca dos métodos de prevenção.
+T8	Argumento 1632 1716	Dessa forma, faz-se necessário uma presença maior do quarto setor no combate às DSTs
+T9	PI 1830 1918	Sob essa ótica, medidas enérgicas são necessárias para tirar o atual cenário da inércia.
+T10	PI 1919 2179	É imprescindível que o governo federal em parceria com o Ministério da Educação promova políticas públicas voltadas a promoção de palestras e dinâmicas acerca das doenças sexuais nas escolas, a fim de orientar os jovens sobre como se prevenir e lidar com elas.
+T11	PI 2180 2425	A mídia, por sua vez, como principal veículo de informação junto aos governantes deve propagar campanhas publicitárias sobre as formas de proteção e alertar os jovens sobre suas consequências de forma a torná-los mais conscientes e responsáveis.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T1	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T10 Arg2:T9	
+R9	Suporte Arg1:T11 Arg2:T9	
+R10	Suporte Arg1:T9 Arg2:T1	

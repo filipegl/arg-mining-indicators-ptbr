@@ -1,0 +1,13 @@
+T1	Tese 238 503	Atualmente, apesar do número de mortes por DSTs ter diminuído, o número de jovens com essas enfermidades no Brasil vem aumentando e é necessário entender os porquês para criar estratégias mais efetivas de combate a esse fantasma que assombra a população desde 1500.
+T2	Argumento 505 591	Um dos possíveis porquês é que no Brasil as questões voltadas ao sexo ainda são tabus.
+T3	Argumento 592 718	Atualmente, apesar das informações estarem mais disponíveis com o auxílio da internet, muitas informações equivocadas circulam
+T4	Argumento 720 858	A vergonha alidada ao preconceito faz com a juventude que não queira procurar os pais e ficam à mercê de informações muitas vezes erradas.
+T5	Argumento 983 1079	Além disso, as políticas de combate existentes não estão sensibilizando os jovens como deveriam.
+T6	Argumento 1154 1291	É preciso alertar mais sobre os perigos do sexo sem proteção e enfatizar a importância de buscar o diagnóstico e tratamento precocemente.
+T7	PI 1620 1855	Para isso, os Ministérios da Saúde e da Educação devem criar campanhas que envolvam a ida de profissionais de saúde às escolas para explicar sobre a importância de usar o preservativo e procurar tratamento ao notar alterações no corpo.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T1	

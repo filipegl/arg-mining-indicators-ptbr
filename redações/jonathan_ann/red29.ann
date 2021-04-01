@@ -1,0 +1,21 @@
+T1	Tese 334 581	Atualmente, o número de jovens infectados por DSTs (Doenças Sexualmente Transmissíveis) tem se verticalizado, seja pela falta de campanhas eficientes de conscientização, seja pela perda do medo de contrair AIDS, Sífilis ou outras doenças venéreas.
+T2	Tese 582 692	Diante desse cenário, uma questão se faz presente: como combater o aumento das DSTs entre os jovens do Brasil?
+T3	Argumento 693 850	Segundo a organização UNAIDS, o Brasil figura, atualmente, entre os primeiros lugares no ranking dos países que apresentam novos casos de AIDS e outras DSTs.
+T4	Argumento 851 1051	Ainda de acordo com a organização, o aumento do número de jovens acometidos por doenças sexuais é um reflexo direto da queda de campanhas eficientes de preservação e estímulo à prática de sexo seguro.
+T5	Argumento 1135 1278	No entanto, para atingir os jovens do século XXI, as propagandas devem incluir, também, as novas mídias sociais, como, por exemplo, a internet.
+T6	Argumento 1279 1418	Como se não bastasse a falha governamental em difundir esclarecimentos, os pais sentem dificuldades na hora de tratar o tema com os filhos.
+T7	Argumento 1419 1665	Isso, aliado à eficiência dos coquetéis antivirais, faz com que os adolescentes tenham a ideia errada de que a AIDS é um problema já superado e que os infectados por DSTs podem levar uma vida longa e sem o temor dos males que as doenças provocam.
+T8	Argumento 1666 1720	Fica clara, portanto, a urgência em combater esse mau.
+T9	PI 1721 1958	O governo precisa, em parceria com os Ministérios da Saúde e o das Telecomunicações, realizar parcerias público-privada, disponibilizando anúncios de prevenção nas novas mídias, como, por exemplo, no menu inicial da Netflix e no YouTube.
+T10	PI 2112 2317	Nessa visão, o Ministério da Educação (MEC) deve proporcionar palestras nas escolas para temas de saúde sexual, abrindo espaço para que os pais acompanhem os infantes e adolescentes durantes as discussões.
+T11	PI 2318 2541	Essa união de pais, alunos e escola torna o tema menos incômodo e mais fácil de ser debatido, além de dar a sensação de que o assunto é sério e que precisa ser abordado desde a infância, e repassado de geração para geração.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T2	
+R9	Suporte Arg1:T10 Arg2:T2	
+R10	Suporte Arg1:T11 Arg2:T2	

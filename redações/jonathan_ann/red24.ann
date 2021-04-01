@@ -1,0 +1,27 @@
+T1	Tese 21 191	Em sua teoria demográfica, Thomas Malthus afirmava que a produção de alimentos não acompanharia o crescimento populacional, o que levaria a uma grande calamidade mundial.
+T2	Tese 192 308	Contudo, a Revolução Verde, caracterizada pelo desenvolvimento de insumos agrícolas aumentou a produção alimentícia.
+T3	Tese 309 388	Porém, é favorável ingerir agrotóxicos diariamente em benefício da agricultura?
+T4	Argumento 389 530	É indubitável que o problema da fome não foi solucionado, visto que a dificuldade maior não é a produção, e sim a distribuição dos alimentos.
+T5	Argumento 531 703	Além disso, o Brasil é um dos países que mais consomem agrotóxicos e o uso desses insumos acarreta não só alergias e intoxicações, como também doenças graves como o câncer.
+T6	Argumento 704 764	Ademais, eles poluem as águas, o solo e até o leite materno.
+T7	Argumento 765 871	Pode-se afirmar, dessa forma, que o uso desses venenos configura um perigo à sociedade e ao meio ambiente.
+T8	Argumento 873 971	Entretanto, é complexa a substituição dos alimentos contaminados por outros livres dos pesticidas.
+T9	Argumento 972 1177	Os produtos orgânicos são mais caros e inacessíveis à maioria da população, isto porque não há incentivo por parte do Governo à produção e, consequentemente, eles não têm capacidade de competir no mercado.
+T10	Argumento 1178 1241	É uma luta desigual entre o bolso e a saúde do povo brasileiro.
+T11	Argumento 1242 1336	Como uma população, em que muitos ainda passam fome, conseguirá optar por alimentos orgânicos?
+T12	PI 1337 1509	Sendo assim, torna-se necessário que o Governo invista, através de incentivos, em pequenos produtores de alimentos orgânicos, a fim de baratear a produção desses alimentos.
+T13	PI 1510 1741	Além do mais, é preciso que seja criada, na Legislação Ambiental Brasileira, uma emenda que estabeleça às empresas agrícolas um limite no uso de herbicidas e pesticidas nas plantações, que seja favorável à saúde e ao meio ambiente.
+T14	PI 1742 2046	Para mais, as empresas brasileiras de TI (Tecnologia da Informação), financiadas pelo Governo Federal, poderiam elaborar aplicativos que divulgassem locais de venda de produtos orgânicos, assim como a análise de preços, para que, dessa forma, a qualidade na alimentação seja acessível ao povo brasileiro.
+R1	Suporte Arg1:T1 Arg2:T2	
+R2	Suporte Arg1:T2 Arg2:T3	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T3	
+R6	Suporte Arg1:T7 Arg2:T3	
+R7	Suporte Arg1:T8 Arg2:T3	
+R8	Suporte Arg1:T9 Arg2:T8	
+R9	Suporte Arg1:T10 Arg2:T9	
+R11	Suporte Arg1:T12 Arg2:T3	
+R12	Suporte Arg1:T13 Arg2:T3	
+R13	Suporte Arg1:T14 Arg2:T3	
+R5	Suporte Arg1:T6 Arg2:T5	
+R10	Suporte Arg1:T11 Arg2:T10	

@@ -1,0 +1,19 @@
+T1	Tese 505 727	Nesse intuito, ao se observar as causas desse sofrimento, muitas dessas estão relacionadas à excessiva pressão social sobre tais indivíduos, os quais têm buscado o atentado contra a própria vida como fuga de seus desafios.
+T2	Argumento 108 371	Os últimos anos vêm sendo marcados por jovens que atentam contra a própria vida, a ponto de o número de incidências dessa natureza se tornar tamanho que, segundo a Organização Mundial da Saúde (OMS), já é a segunda maior causa de morte de adolescentes no planeta.
+T3	Argumento 729 1077	Hoje, observa-se que a sociedade impõe inúmeras exigências aos jovens, tais como a aprovação no vestibular de uma universidade renomada, o não uso de inúmeros produtos e serviços destinados aos juvenis, ou até mesmo atribuição de responsabilidades não condizentes com essa fase da vida, obrigando-os a um verdadeiro salto da infância à vida adulta.
+T4	Argumento 1078 1262	Dessa forma, muitos jovens, por não conseguirem atender às “suas obrigações”, frustram-se e julgam-se inúteis ao meio em que vivem, sofrendo, posteriormente, com problemas depressivos.
+T5	Argumento 1263 1410	Seus responsáveis, ainda, são despreparados em tais ocasiões, na maioria das vezes, vendo-os apenas como seres preguiçosos ou “cheios de frescura”.
+T6	Argumento 1411 1629	Ademais, muitos jovens também são julgados por suas escolhas divergirem de padrões estabelecidos como dignos/corretos no meio social, como se observa com estilo de vestuário, estilo de alimentação e a homossexualidade.
+T7	Argumento 1630 1941	Nos dois primeiros exemplos, os estilos de vestuário e de alimentação, muitos jovens sofrem bullying por optarem por vestimentas consideradas não sociais, como o dito estilo gótico, ou simplesmente por aderirem a uma alimentação mais saudável, como a vegana, sofrendo, conseguintemente, ataques preconceituosos.
+T8	Argumento 1942 2360	No terceiro e último exemplo, também o mais polêmico, a homossexualidade, é onde são observados inúmeros jovens depressivos, devido aos bombardeios preconceituosos provenientes desde familiares até de colegas de estudo/trabalho, depreciando-lhes a força mental e impulsionando-os ao suicídio, afinal a pressão psicológica se torna tamanha, além de raramente possuírem algum apoio amigo, que não enxergam outra solução.
+T9	Argumento 2361 2520	Pode-se inferir, dessa forma, que a contínua pressão social/psicológica sobre os jovens tem elevado seu nível de sofrimento/depressão e, não raro, de suicídio.
+T10	PI 2521 2932	Isso é reflexo de uma barreira cultural insustentável nos dias atuais, a qual precisa ser derrubada, seja por meio de um maior diálogo entre jovens e seus responsáveis, seja pela maior preparação destes para lidar  com tais situações, seja, também, pelo estímulo ao respeito/compreensão com o próximo, a fim de impulsionar os indivíduos a valorizarem não só a própria vida, como também a daquele ao seu alcance.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T8	
+R9	Suporte Arg1:T10 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T1	

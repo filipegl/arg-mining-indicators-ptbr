@@ -1,0 +1,19 @@
+T1	Tese 208 337	Contudo, mesmo formando a maioria, hodiernamente ainda sofrem com o preconceito, discriminação e até mesmo com a exclusão social.
+T2	Tese 338 480	Nesse contexto, acabar com essa problemática envolve mudanças em vários âmbitos da sociedade a fim de que a igualdade racial possa prevalecer.
+T3	Argumento 481 627	Em primeiro plano, notam-se desafios no mercado de trabalho, em que geralmente os negros ocupam as posições menos privilegiadas e mal remuneradas.
+T4	Argumento 628 793	Embora possa ser um reflexo do baixo nível de escolaridade, a falta de oportunidades de crescimento profissional oferecidas à população negra fomenta tal segregação.
+T5	Argumento 794 973	Dessa forma, a inclusão de cada vez mais negros aos cargos formados majoritariamente por brancos é uma forma de mudar o cenário hodierno e de garantir representatividade ao grupo.
+T6	Argumento 974 1188	Somado a essa forma de organização étnica-social, os negros ainda sofrem diariamente com a violência física ou verbal, tanto no convívio social quanto através da internet, mas dificilmente são amparados pelas leis.
+T7	Argumento 1189 1372	O caso da apresentadora Maju Coutinho, que sofreu ataques racistas numa rede social, em 2015, apontou para tal problemática em que raramente os agressores são definitivamente punidos.
+T8	Argumento 1552 1662	Destarte, é indubitável que os desafios enfrentados por negros concentram-se em diversas esferas da sociedade.
+T9	PI 1373 1551	Dessa forma, um amparo legal mais eficiente pode atenuar as práticas racistas, especialmente na nação em que a intolerância racial e o preconceito têm raízes histórico-culturais.
+T10	PI 1663 1932	Para atenuá-los, urge a necessidade da intensificação na criação de leis mais severas, por meio do Governo Federal, que amparem crimes específicos contra negros no país, desde a violência física até a exclusão de uma vaga de emprego diante da origem ética do candidato.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T2	
+R9	Suporte Arg1:T10 Arg2:T2	

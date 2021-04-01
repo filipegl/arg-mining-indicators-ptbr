@@ -1,0 +1,13 @@
+T1	Tese 379 655	Hodiernamente, no Brasil, o aumento do número de adolescentes infectados com DSTs (Doenças Sexualmente Transmissíveis) levanta discussões sobre maneiras eficazes de prevenção, tratamento e informação para a juventude do século XXI - totalmente distinta dos jovens dos anos 80.
+T2	Argumento 657 880	Segunda a Biblioteca Virtual em Saúde, as DSTs são transmitidas, principalmente, por contato sexual sem o uso de preservativo com uma pessoa infectada e, geralmente, se manifestam por meio de bolhas, feridas ou corrimentos.
+T3	Argumento 1212 1469	De acordo com o Departamento de DST, AIDS e Hepatites Virais do Ministério da Saúde houve um aumento expressivo de brasileiros, entre 15 e 19 anos, infectados - uma variação de 187,5% com a transição da estimativa de 2,4 para 6,9 em cada 100 mil habitantes.
+T4	Argumento 1470 1719	A elevação dessa taxa pode ser explicada pela ausência de medidas eficazes que acompanhem as mudanças comportamentais dos jovens do século XXI, imersos em uma sociedade bem mais dinâmica, cosmopolita e marcada pela instantaneidade das redes sociais.
+T5	PI 1720 1858	As campanhas e outras formas de prevenção de todas as DSTs, portanto, devem ser reformuladas e integradas ainda mais nos âmbitos virtuais.
+T6	PI 1859 2140	O Ministério da Saúde, por exemplo, pode investir mais na criação de posts educativos, através de perfis em Facebook, Instagram e Twitter, demonstrando relatos - com todo o resguardo de imagem - de jovens infectados e as mudanças que esse fator trouxe em suas vidas socioemocional.
+T7	PI 2141 2362	Além disso, mitigar a falsa ideia que alguns jovens ainda possuem de que o coquetel AZT é a cura para a AIDS e, portanto, o uso da camisinha e da adoção de práticas e comportamentos sexuais mais seguros serem imperativos.
+R1	Suporte Arg1:T2 Arg2:T1	
+R3	Suporte Arg1:T3 Arg2:T1	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T1	
+R6	Suporte Arg1:T7 Arg2:T1	
+R2	Suporte Arg1:T4 Arg2:T1	

@@ -1,0 +1,19 @@
+T1	Tese 171 239	Nesse contexto, o suicídio ainda está visível na sociedade hodierna.
+T2	Tese 240 352	Dessa forma, a liquidez humana e a pressão social são fatores que configuram na continuidade dessa problemática.
+T3	Argumento 354 457	É fundamental pontuar que a modernidade líquida é um fato e responsável para a permanência do suicídio.
+T4	Argumento 458 653	Nesse sentido, na contemporaneidade, as relações interpessoais são efêmeras, conforme defendeu o sociólogo Zygmunt Bauman, então, tornam-se fragilizadas e, assim, acarretam no afastamento social.
+T5	Argumento 654 830	Consequentemente, a falta e interação e o resguardo sentimental podem provocar o desenvolvimento de danos psíquicos que, em situações mais alarmantes, causam até o ato suicida.
+T6	Argumento 940 1041	Sob outro ângulo, ao que concerne a problemática, também há pressão coletiva que desampara os jovens.
+T7	Argumento 1042 1225	Isso ocorre porque a sociedade determina um costume, como o de estar no mercado e trabalho ou na faculdade, então, exerce uma pressão, mormente nos jovens, para atingirem essas metas.
+T8	Argumento 1226 1368	Consoante, legitimava o teórico Émile Durkheim, esse fato social, como nomeia de coercitivo, induz a confirmação desses as regras e sociedade.
+T9	PI 1622 1975	Sendo assim, cabe ao Governo Federal, por meio do Ministério da Saúde, em parceria com escolas e postos e saúde, direcionar profissionais da saúde mental, como psicólogos e psiquiatras, contratados por concurso público, a fim de tratar, orientar e debater com os alunos, pais e todos os frequentadores desses âmbitos sobre os fatos como os supracitados.
+T10	PI 1976 2240	Ademais, ao Ministério das Comunicações cabe elaborar campanhas mediáticas sobre as consequências causadas pela pressão social em um indivíduo, com o propósito de desempenhar reflexão sobre esse imbróglio para que, desse modo, os casos de suicídio venham amenizar.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T2	
+R9	Suporte Arg1:T10 Arg2:T2	
+R5	Suporte Arg1:T6 Arg2:T2	
+R6	Suporte Arg1:T7 Arg2:T6	

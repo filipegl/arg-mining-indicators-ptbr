@@ -1,0 +1,15 @@
+T1	Tese 428 585	Assim sendo, é indubitável medidas provindas do Ministério da Saúde e do Ministério da Educação para combater o aumento das DSTs entre os jovens brasileiros.
+T2	Argumento 192 426	AIDS, sífilis, gonorreia são exemplos de doenças que devem ser tratadas com ênfase na sociedade, tendo em vista que seus números crescem dia após dia, e a desinformação dos jovens, é o fator preponderante para o aumento desses números
+T3	Argumento 886 1024	Diante disso, é visível o nível desinformação da população jovem, pois se envolvem com alguém momentaneamente, e de maneira inconsequente.
+T4	Argumento 1629 1778	Sendo assim, certamente, há um grande número de portadores sem o devido conhecimento da doença, o que reforça ainda mais a importância da informação.
+T5	PI 1025 1242	Uma medida viável é esclarecer aos jovens que o uso da camisinha vai muito além da prevenção à gravidez indesejada, o uso da mesma é prevenção de doenças posteriores, doenças até mesmo sem cura, como é o caso da Aids.
+T6	PI 1243 1508	Todavia, cabe frisar, que somente aconselhar, dizer que o uso da camisinha é importante, não é o bastante, é necessário o contato com pessoas que convivem com tais doenças, para que possam entender que as DSTs são tão devastadoras como qualquer outras enfermidades.
+T7	PI 1779 2118	Levando em consideração os fatos expostos, é necessário que o Ministério da Educação, proponha debates com psicólogos que possam discutir a respeito desse impasse para a saúde brasileira, a fim de alertar os jovens que a prevenção é importante, que a Aids não tem cura, e que essas doenças não estão distante da realidade como eles pensam.
+T8	PI 2119 2311	Nessa mesma perspectiva, é importante que o Ministério da Saúde, intensifique o número de campanhas de prevenção, por meio dos meios de comunicação, a fim de tornar o assunto comum aos jovens.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T1	
+R6	Suporte Arg1:T7 Arg2:T1	
+R7	Suporte Arg1:T8 Arg2:T1	

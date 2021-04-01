@@ -1,0 +1,17 @@
+T1	Tese 289 581	Um dos desafios bem recorrentes que vem sendo noticiado, até mesmo em jornais, se relaciona à dificuldade em manter a população indígena em suas terras devido a pressões feitas por fazendeiros, posseiros que não aceitam essa condição e se acham possuidores das terras indígenas daquele local.
+T2	Argumento 685 929	Além disso, outro desafio muito comum é que geralmente essa população vive em locais de difícil acesso em que muitas vezes não recebem atendimento médico, as crianças não estudam no ensino regular, os adultos não trabalham por essa dificuldade.
+T3	Argumento 930 986	A tecnologia não se faz tão presente nessas comunidades.
+T4	Argumento 987 1204	A falta de conhecimento e a inocência causadas por negligências do estado em não prestar a assistência que necessitam faz com que apresentem ainda um retrocesso muito grande em relação à população que vive em cidades.
+T5	Argumento 1205 1345	Ademais, o Estado vem tentando essa igualdade para que esses povos tenham os mesmos direitos, mas é necessário um incentivo e atenção maior.
+T6	Argumento 1346 1433	Muitas vezes o Estado se faz omisso e isso prejudica o desenvolvimento dessa população.
+T7	PI 1434 1526	Programas específicos e contínuos são necessários até que se consiga chegar a essa isonomia.
+T8	PI 1527 1659	Leis mais rígidas para proteção dessa população e uma fiscalização contínua nas terras desses indivíduos também podem ser positivos.
+T9	PI 1867 2042	Ações afirmativas feitas pelo governo são de grande importância para a proteção, igualdade desses povos indígenas para que consigam superar esses desafios de forma mais justa.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T1	
+R3	Suporte Arg1:T4 Arg2:T1	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T1	
+R7	Suporte Arg1:T8 Arg2:T1	
+R8	Suporte Arg1:T9 Arg2:T1	

@@ -1,0 +1,17 @@
+T1	Tese 241 398	Nesse contexto, pode-se afirmar que o uso demasiado da tecnologia no dia a dia do homem corrobora na tentativa de torna-lo obediente às influências digitais.
+T2	Argumento 399 527	Em primeira instância, cabe pontuar que a busca pela praticidade e conforto do homem estreitou a relação desse com a tecnologia.
+T3	Argumento 528 667	Isso passou a ser evidente a partir do século XIX com a Revolução Industrial, quando a mão de obra passou a ser substituída pelas máquinas.
+T4	Argumento 668 906	Além da finalidade produtiva, a tecnologia também se destaca no campo da comunicação, uma vez que permite ao indivíduo um maior alcance de suas mensagens e o faz em tempo real, facilitando, portanto, a interação comunicativa dos usuários.
+T5	Argumento 1017 1255	Ademais, vale frisar que esse uso exacerbado da tecnologia permite que ela atue nas decisões do homem por meio do sistema de controle de dados que é capaz de ter acesso as preferências dos internautas e, assim, moldar sua forma de pensar.
+T6	Argumento 1256 1531	Artistas contemporâneos, como a cantora Pitty, retrata esse cenário na música “Admirável Chip Novo” no seguinte trecho: “Nada é orgânico, é tudo programado e eu achando que tinha me libertado”, evidenciando a falta de liberdade do homem diante da forte interferência digital.
+T7	PI 1727 1871	Destarte, é necessário que haja um maior controle no campo virtual para amenizar a forte influência de diversos sites nas decisões do indivíduo.
+T8	PI 1872 2154	Para isso, faz-se preciso a atuação do Governo Federal para criar medidas de segurança, em parceria com o Ministério da Comunicação, no âmbito de tornar os dados pessoais dos usuários mais preservados, podendo punir judicialmente os infratores em caso de invasão dessas informações.
+T9	PI 2155 2395	Além disso, as instituições de ensino, como órgão educador, devem elucidar os jovens sobre diversificar os sites que eles costumam acessar para que eles não fiquem restritos a uma só ferramenta, fazendo com que sua visão de mundo se amplie.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T1	
+R7	Suporte Arg1:T8 Arg2:T1	
+R8	Suporte Arg1:T9 Arg2:T1	
+R3	Suporte Arg1:T4 Arg2:T2	

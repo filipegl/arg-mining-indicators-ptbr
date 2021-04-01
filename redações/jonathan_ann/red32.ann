@@ -1,0 +1,21 @@
+T1	Tese 15 137	O Ultrarromantismo, corrente literária do século XIX, caracterizava-se pela desilusão adolescente e a obsessão pela morte.
+T2	Tese 138 337	Esses traços dialogam de forma inquietante com a realidade contemporânea brasileira, na qual o autocídio é a terceira maior causa de óbitos entre jovens, segundo a OMS (Organização Mundial de Saúde).
+T3	Tese 338 445	Frente a essa problemática, torna-se imprescindível analisar as possíveis razões desse cenário perturbador.
+T4	Argumento 446 575	A princípio, deve-se considerar que, ainda segundo a OMS, mais de 90% dos casos de suicídios estão ligados a transtornos mentais.
+T5	Argumento 576 978	Tendo em vista que a adolescência é uma fase de transição para a vida adulta, marcada por significativa pressão social por decisões de peso (como a escolha profissional) e adequação às normas sociais (como a busca pelo corpo perfeito), não é incoerente admitir a vulnerabilidade da saúde mental do jovem, tornando-o suscetível a patologias como a depressão, que podem levar ao suicídio se não tratadas.
+T6	Argumento 979 1131	A significância do bem-estar psicológico, portanto, não deve ser menosprezada: como disse Platão, viver bem é mais importante do que simplesmente viver.
+T7	Argumento 1132 1375	Ademais, é de relevância que, exatamente por ser uma fase caracterizada por mudanças biológicas e fisiológicas, a juventude é, por si só, racionalizada como causa de alterações de hábitos e níveis elevados de estresse pelos pais e professores.
+T8	Argumento 1376 1539	A falta de informação acerca de sinais de depressão e ansiedade corrobora, assim, para o número de casos de suicídio, pois reduz as chances de formas de prevenção.
+T9	Argumento 1540 1665	Destarte, o suicídio juvenil no país é um problema cuja solução requer medidas visando o amparo psicológico dos adolescentes.
+T10	PI 1666 1816	Para tal, é mister que o Estado torne obrigatória a assistência psicológica em instituições de ensino públicas e privadas, de ensino médio e superior.
+T11	PI 1817 1981	Outrossim, as escolas devem realizar palestras informativas voltadas aos pais, conscientizando-os sobre sintomas comuns da depressão e fatores de risco do suicídio.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T5	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T8	
+R9	Suporte Arg1:T10 Arg2:T3	
+R10	Suporte Arg1:T11 Arg2:T3	
+R6	Suporte Arg1:T7 Arg2:T3	

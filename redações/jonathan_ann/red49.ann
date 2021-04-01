@@ -1,0 +1,17 @@
+T1	Tese 365 545	Nesse contexto, vale ressaltar que a violência contínua contra a mulher, além de ser fruto de uma herança histórica, se dá pela cultura machista que ainda impera nos tempos atuais.
+T2	Argumento 546 666	Em primeira instância, cabe pontuar que as atitudes discriminatórias contra a mulher já eram recorrentes na antiguidade.
+T3	Argumento 667 933	Comprova-se isso pelas fontes históricas, bem como pelas artes, as quais são nítidas na música “mulheres de Atenas” do compositor Chico Buarque, que evidenciam a submissão da figura feminina às ordens masculinas as quais se resumiam aos cuidados do lar e dos filhos.
+T4	Argumento 1164 1344	Ademais, convém frisar que a supremacia masculina ainda é forte na atualidade, bem como o sentimento de propriedade sobre a mulher mulher, refletindo, portanto, as ações violentas.
+T5	Argumento 1345 1512	Isso é notório pelos dados divulgados pela OMS- Organização Mundial da Saúde- os quais afirmam que a cada cem mil mulheres, quase cinco mil são assassinadas no Brasil.
+T6	Argumento 1513 1648	Diante disso, percebe-se que a luta feminina pela busca de maior independência e proteção contra essas agressões ainda é uma realidade.
+T7	PI 934 1163	Dessa forma, vê-se que para combater essas associações de papéis discriminatórios, é preciso desconstruir essa ideia preconceituosa sobre o espaço que a mulher deve ser necessariamente inserida, sustentado por essa era patriarca.
+T8	PI 1810 2112	Torna-se imperativo que as autoridades políticas, por meio de verbas e leis, invistam nos órgãos de denúncia, bem como nos seus agentes de segurança para a mulher, de forma a melhorar o atendimento e a atuação desses funcionários, com a contratação de mais profissionais da polícia e capacitação deles.
+T9	PI 2113 2426	Além disso, a educação, por meio de aulas didáticas nas escolas, deve ampliar o conhecimento do seus educandos acerca da igualdade de gêneros, a fim de fazê-los abandonar a visão preconceituosa que era sustentada nos tempos antigos e passarem a adotar o respeito que a figura feminina deve ter no convívio social.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T1	
+R7	Suporte Arg1:T8 Arg2:T1	
+R8	Suporte Arg1:T9 Arg2:T1	

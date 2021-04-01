@@ -1,0 +1,23 @@
+T1	Tese 22 146	Tida como um dos motores da economia do país, a agricultura brasileira é conhecida por ser moderna e extremamente produtiva.
+T2	Tese 147 264	No entanto, para que essa produção se concretize, é necessário que se utilize, dentre outros métodos, os agrotóxicos.
+T3	Tese 265 394	Porém, se por um lado o uso desses químicos verticaliza a produção, por outro causa problemas na saúde humana e no meio ambiente.
+T4	Tese 395 485	Assim, deve ser fomentado o debate consciente no tocante ao uso dos agrotóxicos no Brasil.
+T5	Argumento 486 767	Segundo dados da Confederação da Agricultura e Pecuária do Brasil (CNA), o uso de defensivos agrícolas é crucial no Brasil, pois, devido a forte utilização do sistema de plantação, grandes lavouras e áreas agrícolas podem ser facilmente dizimadas de uma só vez por uma única praga.
+T6	Argumento 768 939	Sendo assim, ainda de acordo com a CNA, os defensivos promovem a superprodução de alimentos e o consequente barateamento para o consumidor final devido à oferta abundante.
+T7	Argumento 940 1170	Além disso, o grande estoque, supre não apenas a demanda nacional, mas também serve de reserva de capital, quando o excedente é vendido em forma de commodities no mercado internacional, garantindo o superávit da balança comercial.
+T8	Argumento 1254 1392	Segundo a ONG internacional Human Rights Watch (HRW), o número de novos casos de câncer foi proporcional ao aumento do uso de agrotóxicos.
+T9	Argumento 1684 1767	Não restrito apenas a saúde do homem, os impactos ambientais também são constantes.
+T10	PI 1925 2071	Fica claro, portanto, a necessidade de uma legislação que promova ganhos na produção ao mesmo tempo em que evite perdas na saúde e no ecossistema.
+T11	PI 2175 2439	Partindo dessa premissa, o Ministério da Agricultura deve promover, através de investimentos em pesquisa científica, o desenvolvimento de biopesticidas, desenvolvendo doenças ou predadores que atacam determinada praga sem que haja dano ao meio ambiente e ao homem.
+T12	PI 2527 2646	O governo precisa incentivar o pequeno agricultor a produzir a agricultura familiar orgânica e com rotação de culturas.
+R1	Suporte Arg1:T1 Arg2:T2	
+R2	Suporte Arg1:T2 Arg2:T3	
+R3	Suporte Arg1:T3 Arg2:T4	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T4	
+R7	Suporte Arg1:T8 Arg2:T4	
+R9	Suporte Arg1:T10 Arg2:T4	
+R10	Suporte Arg1:T11 Arg2:T10	
+R11	Suporte Arg1:T12 Arg2:T10	
+R6	Suporte Arg1:T7 Arg2:T6	
+R8	Suporte Arg1:T9 Arg2:T8	

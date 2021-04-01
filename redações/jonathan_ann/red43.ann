@@ -1,0 +1,27 @@
+T1	Tese 341 463	Assim, torna-se aparente que o racismo ainda existe no país e muitos passos devem ser dados para alcançar a sua atenuação.
+T2	Argumento 464 656	Por conta de um legado histórico, a população negra brasileira, desde que liberta da escravidão, esteve exposta a condições socioeconômicas secundárias, o que os levou às margens da sociedade.
+T3	Argumento 657 747	As periferias das cidades, por exemplo, tornaram-se seus locais majoritários de habitação.
+T4	Argumento 748 913	Além disso, para um escravo recém-liberto, a dificuldade de se conseguir um emprego remunerado era absurda, pois, a sociedade, em sua maioria, o tratava com repúdio.
+T5	Argumento 914 1077	Dessa forma, percebe-se que o atual cenário, coberto de desafios enfrentados pelos negros no Brasil, é fruto de uma construção histórica que se reflete ainda hoje.
+T6	Argumento 1078 1221	Entretanto, a Constituição Federal de 1988, garante que todos os indivíduos são iguais perante a lei, estando sob os mesmos direitos e deveres.
+T7	Argumento 1222 1409	Ainda assim, hodiernamente, o panorama visto, as notícias relatadas pela mídia e pesquisas realizadas, apontam para as desigualdades correntes frente à população preta e parda brasileira.
+T8	Argumento 1410 1544	Segundo o Mapa da Violência, um homem negro possui até 12 vezes mais chances de ser vítima de um assassinato se comparado a um branco.
+T9	Argumento 1545 1762	Tudo isso é fruto do racismo imputado nos indivíduos, que ainda se faz latente em um país cuja população é composta por 55% de pessoas pretas e pardas, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE).
+T10	Argumento 1763 1987	Isso mostra o contraste social, o visível complexo de superioridade dos brancos em relação aos negros, e o preconceito velado que há na mente das pessoas que habitualmente exaltam a população branca em detrimento das demais.
+T11	Argumento 1988 2103	Desse modo, observa-se que o racismo é real e os caminhos para enfrentá-lo são longos, árduos, mas não impossíveis.
+T12	PI 2104 2332	Para solucionar essa problemática é essencial o papel da escola em conjunto com a família, no que se refere a ensinar as pessoas desde criança, o respeito ao próximo, fazendo-as entender que todos são iguais independente da cor.
+T13	PI 2333 2581	Outro ponto basilar é o reforço, por parte do Estado, da formulação de ações afirmativas como as cotas, por exemplo, que dá visibilidade e acesso às pessoas pretas e pardas em situação de vulnerabilidade socioeconômica aos ambientes universitários.
+T14	PI 2582 2737	Ademais, a mídia também seria  forte aliada na luta contra a discriminação racial, por meio de propagandas que reforcem a igualdade entre qualquer cidadão.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T8	
+R9	Suporte Arg1:T10 Arg2:T9	
+R10	Suporte Arg1:T11 Arg2:T10	
+R11	Suporte Arg1:T12 Arg2:T1	
+R12	Suporte Arg1:T13 Arg2:T1	
+R13	Suporte Arg1:T14 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T1	

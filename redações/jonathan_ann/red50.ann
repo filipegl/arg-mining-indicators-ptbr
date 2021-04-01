@@ -1,0 +1,21 @@
+T1	Tese 264 344	Segundo a história a mulher sempre foi vista como inferior, em relação ao homem.
+T2	Tese 345 508	Pode-se comprovar pelo fato de elas terem direito ao voto, à escolaridade, ingressar no mercado de trabalho, entre outras coisas, muito tempo depois do seu oposto.
+T3	Tese 509 697	Segundo a socióloga, pesquisadora e professora da Universidade de Brasília (Unb), Lourdes Bandeira: “O feminicídio representa a última etapa de um continuum de violência que leva à morte”.
+T4	Tese 698 899	Ou seja é o abuso por parte do parceiro íntimo, em contexto da violência familliar, que, em diversas vezes acompanha o abuso sexual, psicológico, tortura e/ou mutilação da vítima, antes do assassinato.
+T5	Argumento 900 1059	O que comprova que as mulheres foram vítimas desse contexto histórico-cultural e o machismo que foi enraizado na nossa sociedade, mesmo que de forma implícita.
+T6	Argumento 1060 1193	Os parâmetros que definem a violência doméstica contra a mulher, por sua vez, estão estabelecidos pela Lei Maria da Penha desde 2006.
+T7	Argumento 1194 1261	Porém ela acaba tornando-se ineficaz, por falta de esclarecimentos.
+T8	Argumento 1262 1354	Muitas mulheres têm medo de denunciarem seus agressores e sofrerem com ainda mais violência.
+T9	Argumento 1355 1496	Os acometedores, muitas vezes, também são desinformados quanto à lei e acabam por não saberem que podem ser seriamente punidos por tais atos.
+T10	PI 1497 1773	Com isso, é dever do Estado proteger as mulheres com leis e punições mais severas, campanhas de esclarecimentos sobre tais leis e principalmente um programa eficaz de proteção para as mulheres vítimas de agressão e que fazem denúncia, com direito a acompanhamento psicológico.
+T11	PI 1774 2041	Assim como um maior investimento em educação com o intuito de formar cidadãos conscientes e comprometidos em garantir o bem-estar do próximo, afinal de contas, desde o Iluminismo, entende-se que uma sociedade só progride quando um se mobiliza com o problema do outro.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T4 Arg2:T3	
+R3	Suporte Arg1:T5 Arg2:T2	
+R4	Suporte Arg1:T6 Arg2:T5	
+R5	Suporte Arg1:T8 Arg2:T7	
+R6	Suporte Arg1:T9 Arg2:T8	
+R7	Suporte Arg1:T10 Arg2:T2	
+R8	Suporte Arg1:T11 Arg2:T2	
+R9	Suporte Arg1:T7 Arg2:T6	
+R10	Suporte Arg1:T3 Arg2:T2	

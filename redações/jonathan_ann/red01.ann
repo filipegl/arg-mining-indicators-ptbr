@@ -1,0 +1,9 @@
+T1	Tese 536 706	Portanto, é imprescindível que exista uma reavaliação governamental diante dessas linhas sociais, pois um Estado deficitário ocasiona um quadro injusto à população jovem.
+T2	Argumento 708 952	Com base nessas considerações, é perceptível que a solução ao impasse apresentado responde a uma governabilidade ruim, cuja gestão dos Ministérios existentes repercutem ações fracas e ineficientes para combater sistematicamente a criminalidade.
+T3	PI 1889 2137	O Ministério da Educação e seu então ministro Ricardo Vélez Rodriguez, podem desenvolver uma parceria junto a grande média – rádios, televisão e jornais, a fim de criar um projeto social e informativo sobre os perigos da criminalidade entre jovens.
+T4	PI 2138 2298	Também, este mesmo projeto poderia premiar trabalhos que apresentassem temas ao combate à criminalidade com bolsas de estudos na melhores Universidades do País.
+T5	PI 1132 1534	Além disso, precisa haver um diagnóstico de situações concretas, buscando reavaliar as principais circunstâncias que adjetivam essas injustiças sociais como, por exemplo, criminalizar de maneira mais enérgica os corruptos que saqueiam cofres públicos e, consequentemente, afetam inúmeras famílias que necessitam de uma educação para seus filhos e saúde de qualidade, bem como um emprego digno aos pais.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T5 Arg2:T1	
+R3	Suporte Arg1:T3 Arg2:T1	
+R4	Suporte Arg1:T4 Arg2:T1	

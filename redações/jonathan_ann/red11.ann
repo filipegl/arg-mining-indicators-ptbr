@@ -1,0 +1,13 @@
+T1	Tese 270 440	Nesse contexto, depreende-se que a expansão de atividades empresariais aliada a visão etnocêntrica da sociedade são os principais rastilhos que a nação indígena enfrenta.
+T2	Argumento 442 623	Em primeira instância, cabe pontuar que comunidades indígenas, desde o período colonial, no século XVI, sofrem com as invasões de suas terras pelas obras de desenvolvimento do país.
+T3	Argumento 1124 1292	Ademais, vale frisar que os nativos são vítimas de uma visão deturpada de seus valores, construída pelos europeus que, historicamente, foram os primeiros a ter contato.
+T4	Argumento 1293 1531	Essa percepção errônea e naturalizada é refletida em obras literárias indianistas como a do escritor José de Alencar, Iracema, a qual transforma o índio numa figura selvagem, ingênua e passiva diante das atitudes exploratórias do europeu.
+T5	PI 1727 1862	Dado o exposto, faz-se necessário uma mobilização de agentes como fundações e instituições para combater as problemáticas supracitadas.
+T6	PI 1863 2147	Para isso, a FUNAI- Fundação Nacional Indígena- deve intensificar suas operações sobre a proteção e garantia dos direitos indígenas acerca de suas terras demarcadas, denunciando empresas que ferirem esses direitos preestabelecidos e, assegurando aos indígenas, a posse de suas terras.
+T7	PI 2148 2530	Outrossim, as instituições escolares, por meio de seus docentes, devem propor inovações didáticas – reservar uma semana do ano, ao invés de somente um dia da data comemorativa-, para abordar temáticas desse povo, elucidando sua importância na construção da identidade do país para que cidadãos, desde a sua tenra idade, aprendam sobre o respeito e preservação da diversidade étnica.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T1	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T5	

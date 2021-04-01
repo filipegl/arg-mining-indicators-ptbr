@@ -1,0 +1,11 @@
+T1	Tese 279 654	Nessa perspectiva, manipulação de informações através desse meio, consolida à internet não só como uma ferramenta de aquisição ao conhecimento, mas também a torna cada vez mais entrelaçada às decisões pessoais do indivíduo, que pela silenciosa ditadura dos algoritmos, o induz desde um padrão de consumo, até mesmo a formação crítica de opinião associada a seu comportamento.
+T2	Argumento 960 1195	Dessa maneira, o consumo apresenta-se como fruto de escolhas previamente selecionadas e responsáveis por criar uma falsa sensação de liberdade à pessoa, que é restringida pela presença dos “trending topics” ilustrados por publicidades.
+T3	Argumento 1196 1682	Paralelo a isso, o vazamento dos dados oriundos de 87 milhões de perfis do Facebook, sendo 440 mil brasileiros, relaciona-se à inobservância estatal em assegurar os direitos à segurança e privacidade previstos no Marco Civil da Internet (lei 12965/2014), isso porque, o controle ilegal de tais conteúdos incide em ações que tendem a influenciar formação política e social da sociedade, que por sua vez mantém-se fomentada pela comodidade e falta de verificação na busca de conhecimento.
+T4	Argumento 1683 1957	De fato, tal conjuntura, assemelha-se à Alegoria da Caverna proposta pelo filósofo Platão: o homem cômodo, acorrentado à caverna e alimentado somente pelas sombras do mundo exterior refletido na parede seria incapaz de atingir o conhecimento inteligível, isto é, verdadeiro.
+T5	PI 1958 2383	Diante do supracitado, para reversão de tal cenário, é necessário ação colaborativa entre o Ministério Público e o Ministério da Educação no fortalecimento do Projeto Ministério Público pela Educação Digital nas Escolas a fim de intensificar presença de especialistas no espaço escolar os quais expliquem as devidas medidas proteção a serem tomadas na internet, bem como fornecer orientação as famílias no controle desse uso.
+T6	PI 2384 2616	De mesmo modo, a mídia, com seu caráter socializador, deve desenvolver comerciais televisivos os quais contenham de fragmentos da lei 12965 ou exemplos cotidianos que instruam população ao manuseio consciente de seus dados pessoais.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T1	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T1	

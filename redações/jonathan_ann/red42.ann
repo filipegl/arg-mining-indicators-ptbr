@@ -1,0 +1,17 @@
+T1	Tese 420 684	Assim, em decorrência dessa exclusão histórica, os afrodescendentes brasileiros da atualidade têm um duplo desafio: de um lado, fugir dos estigmas sociais impostos à sua raça e, de outro lado, afrontar o preconceito racial velado existente na sociedade brasileira.
+T2	Argumento 19 225	A abolição da escravidão no Ocidente foi determinada menos por uma inspiração de ideais humanistas do que por uma necessidade que as nações recém-industrializadas tinham de um mercado consumidor mais amplo.
+T3	Argumento 685 873	De uma parte, embora o Estatuto da Igualdade Racial exista desde 2010, dados recentes da ONU (Organização das Nações Unidas) afirmam que a cada 23 minutos um jovem negro é morto no Brasil.
+T4	Argumento 874 1008	Tal fato evidencia um dos obstáculos na vida de uma pessoa afrodescendente - a violência - que vitimiza sobretudo membros dessa etnia.
+T5	Argumento 1009 1183	Esse problema se agrava ainda mais quando a força policial estatal é uma das causadoras das agressões infligidas contra essa população, segundo militantes do movimento negro.
+T6	Argumento 1184 1307	De outra parte, o preconceito étnico implícito na sociedade brasileira é outra mazela com a qual pessoas negras se deparam.
+T7	Argumento 1308 1689	Esse tipo de racismo não se manifesta de forma agressiva ou violenta, como na injúria racial, mas pode ser verificado em várias situações cotidianas, desde o fato de que a maioria dos serviços braçais é executada por negros até a constatação de que os professores afrodescendentes de uma instituição como a USP (Universidade de São Paulo) representam apenas 0,09% do corpo docente.
+T8	Argumento 1690 1804	Fica evidente, portanto, que os afrobrasileiros enfrentam ao mesmo tempo a desigualdade social e o racismo velado.
+T9	PI 1805 2094	Para amenizar esse problema, é imprescindível que o Estado Brasileiro amplie o número de vagas universitárias destinadas a membros da população negra, visto que esse grupo já corresponde a 55% da população brasileira, de acordo com o IBGE (Instituto Brasileiro de Geografia e Estatística).
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T1	

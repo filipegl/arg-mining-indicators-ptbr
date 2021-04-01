@@ -1,0 +1,21 @@
+T1	Tese 43 150	Segundo a Agência Nacional de Vigilância Sanitária (ANVISA) o Brasil é líder mundial no uso de agrotóxicos.
+T2	Tese 151 335	Essa totalidade discute uma questão de saúde pública, porque os relatórios anuais da Organização das Nações Unidas (ONU) alertam para os perigos dessas substâncias ao organismo humano.
+T3	Tese 336 499	Dessa forma, tem-se uma discussão econômica, ambiental e de saúde, na qual geram argumentos a favor do agronegócio e outros contra pela hostilidade tóxica à saúde.
+T4	Tese 500 624	Então, a questão é colocar em equilíbrio as problemáticas futuras e viabilizar a seriedade da situação frente sua população.
+T5	Argumento 744 1188	Mas, embora o cientificismo normatize artigos que provam os malefícios aos seres humanos e o Sistema de informação de Agravos de Notificação (SINAN) e a própria ONU relatem os prejuízos hormonais, psicológicos e neurais aos humanos, o que prevalece é a ausência de ações administrativo-política pelas quais venham inibir essa demanda tóxica crescente nos alimentos e, consequentemente, à fisiologia dos seres bióticos e abióticos de modo geral.
+T6	Argumento 1189 1466	Ademais, é notória a precisão em aumentar a produtividade e eliminar pragas em plantações, todavia, essas iniciativas não são ecologicamente viáveis por gerarem hostilidades em longo prazo, começando pela contaminação de mananciais, peixes, e toda cadeia produtiva subaquática.
+T7	Argumento 1467 1754	Então se a questão em utilizar agrotóxicos é mais barato frente técnicas, também polêmicas, como o uso da biotecnologia, transgênicos e alimentos geneticamente modificados, a contradição estará em gastos maiores pelo aparecimento de novas doenças, ainda mais difíceis de curar no futuro.
+T8	Argumento 1755 1897	Portanto, precisa haver um diagnóstico de situações concretas, buscando equacionar os impasses causados aos ecossistemas e seus constituintes.
+T9	PI 1899 2068	Com base nessas considerações, a necessidade em diminuir gradativamente o uso é permitir cuidados ecológicos junto à fauna e a flora, e pensar num futuro mais promissor.
+T10	PI 2069 2183	Entretanto, soluções ainda precisam integrar medidas qualitativas e eficazes no combate ao excesso de agrotóxicos.
+T11	PI 2184 2352	Para tanto, o Ministério da Saúde e seu ministro Gilberto Occhi devem revisar as leis que viabilizam a entrada desses produtos a fim de torná-las justas à saúde humana.
+R1	Suporte Arg1:T1 Arg2:T2	
+R2	Suporte Arg1:T2 Arg2:T3	
+R3	Suporte Arg1:T3 Arg2:T4	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T4	
+R6	Suporte Arg1:T7 Arg2:T4	
+R8	Suporte Arg1:T9 Arg2:T3	
+R9	Suporte Arg1:T10 Arg2:T9	
+R10	Suporte Arg1:T11 Arg2:T4	
+R7	Suporte Arg1:T8 Arg2:T7	

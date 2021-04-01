@@ -1,0 +1,15 @@
+T1	Tese 261 478	Nesse contexto, faz-se mister conciliar os interesses dessa nova lei já que, ao passo que o uso desses produtos químicos melhora a produtividade, concomitantemente, provoca impactos ao meio ambiente e aos seres vivos.
+T2	Argumento 19 148	A agricultura é uma atividade que, dentre tantos benefícios, tirou a condição de nômade do homem e o permitiu se fixar num local.
+T3	Argumento 479 660	Em primeira instância, cabe pontuar que viver em harmonia com o meio ambiente é tido como uma habilidade das espécies segundo a visão do diretor da fundação Greenpeace, Paul Watson.
+T4	Argumento 661 1002	Ao contrário desse pressuposto, o uso de agrotóxicos sem qualquer tipo de regulamentação fere esse princípio de harmonia proposto pelo Watson, uma vez que os impactos são diversos, tais como poluição de solos e rios pelo potencial químicos dos produtos e prejuízo aos seres vivos ao se alimentarem de orgânicos contaminados pelos pesticidas.
+T5	Argumento 1003 1155	Sendo assim, é incontrovertível a regulamentação da lei do uso desses produtos químicos para amenizar seus efeitos nocivos à natureza e aos seres vivos.
+T6	Argumento 1156 1268	Ademais, convém frisar que o uso de agroquímicos nas plantações traz uma melhora significativa na produtividade.
+T7	PI 1859 2159	É imprescindível que as autoridades públicas se reúnam com os representantes da bancada ruralista e ambientalistas para debater os problemas e benefícios de ambos os lados e fazer com que partes desses interesses prevaleçam, isto é, tanto permitir o uso dos agroquímicos, quanto regulamentar seu uso.
+T8	PI 2160 2471	Além disso, os ministérios competentes devem fiscalizar as indústrias de alimentação para que elas comuniquem a população, por meio de informações nas embalagens, sobre o uso desses defensivos para que as pessoas se alimentem conscientes e possam fazer suas escolhas sobre consumir ou não esse tipo de alimento.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R5	Suporte Arg1:T6 Arg2:T1	
+R6	Suporte Arg1:T7 Arg2:T1	
+R7	Suporte Arg1:T8 Arg2:T1	
+R4	Suporte Arg1:T5 Arg2:T4	

@@ -1,0 +1,19 @@
+T1	Tese 357 625	Entretanto, apesar da miscigenação existente sobre os povos formadores da sociedade nacional, a noção de uma supremacia branca e estrangeira ainda inferioriza a identidade indígena mesmo após a conquista de direitos e demarcações as quais corroboram a sua importância.
+T2	Argumento 811 1253	Convém ressaltar que a invasão dos europeus representou o início da desagregação de muitas tribos, e consequentemente deu origem a conflitos referentes a demarcação de territórios indígenas, que por sinal permanecem até os tempos mais recentes, dada a morosidade da Fundação Nacional do Índio (FUNAI) a respeito da homologação de inúmeras áreas destinadas aos povos nativos, em contraponto a resistência de grandes empresários e agricultores.
+T3	Argumento 1254 1447	Dessa forma, tais disputas indicam não só o reflexo da aculturação sofrida pelos índios, mas também a constante luta enfrentada por esses para manterem a sua cultura na sociedade contemporânea.
+T4	Argumento 1448 1697	Paralelo a isso, apesar dos avanços legislativos como o Estatuto do Idoso e a lei 11645, a qual inclui a História e cultura afrodescendente e indígena na grade curricular das escolas, a visão conferida aos índios permanece socialmente estigmatizada.
+T5	Argumento 1698 1873	Assim, a concepção generalizada de um indígena fadado à praticas primitivas de vida e isolado em tribos fortificam estereótipos e dificultam a sua integração ao meio coletivo.
+T6	Argumento 1874 2105	Outrossim, a escassa ação de políticas públicas, sobretudo voltadas a saúde, reflete na preservação de grupos indígenas isolados, uma vez que há maior vulnerabilidade em relação as doenças oriundas de madeireiros ilegais nas matas.
+T7	PI 2107 2220	Infere-se, portanto, a atuação do Estado na valorização do índio com o intuito de integra-lo a comunhão nacional.
+T8	PI 2221 2430	Para isso o Poder Executivo e a FUNAI têm de agilizar os estudos e demarcações referentes às terras indígenas, bem como intensificar a fiscalização policial de reservas a fim de manter defesa de certas tribos.
+T9	PI 2431 2573	Ademais, o Ministério da Saúde deve fortalecer os conselhos de saúde especializados aos índios por intermédio da capacitação de profissionais.
+T10	PI 2574 2743	Por fim, o Ministério da Educação (MEC) deve efetivar a lei 11645 nas escolas em parceria a campanhas midiáticas que desmistificam os estigmas ligados aos povos nativos.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T1	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T1	
+R6	Suporte Arg1:T7 Arg2:T1	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T7	
+R9	Suporte Arg1:T10 Arg2:T7	

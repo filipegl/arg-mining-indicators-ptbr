@@ -1,0 +1,9 @@
+T1	Tese 176 371	No entanto, o controle exercido pelos meios digitais sobre o dados, produtos e serviços que chegam ao indivíduo impossibilita que esses direitos internacionais sejam de fato colocados em prática.
+T2	Argumento 434 535	Em primeira análise, cabe pontuar que os meios digitais controlam o acesso à informação pelo cidadão.
+T3	Argumento 536 798	Isto porque, através de consultas as redes socais, como Facebook e Instagram, é possível desenhar o perfil do indivíduo e, assim, descobrir seus desejos e opiniões e, por fim, permite que grandes empresas, como o Google, selecionem as notícias que chegam a este.
+T4	Argumento 974 1085	Em segundo plano, vale ressaltar que a internet seleciona os bens e serviços que são consumidos pela população.
+T5	PI 1609 1812	Dessa forma, a ONU, em parceria com ONGs espalhadas ao redor, deve realizar palestra e seminários sobre os perigos que o meio digital oferece, a fim de incitar o caráter crítico e vigilante do indivíduo.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R4	Suporte Arg1:T5 Arg2:T1	
+R3	Suporte Arg1:T4 Arg2:T1	

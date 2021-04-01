@@ -1,0 +1,17 @@
+T1	Tese 217 325	Então, buscar garantir seus direitos configura ação ética frente uma sociedade moderna que os torna minoria.
+T2	Tese 326 493	Portanto, quando se debate demarcação de terras, normativas constitucionais de proteção aos povos tradicionais e etnocídio, tematizam exemplos problemáticos no Brasil.
+T3	Argumento 494 750	Nesse contexto, relatórios acadêmicos da Universidade Federal do Pará – UFPA mostram o impacto das grandes construções hidrelétricas, tal como a Usina de Belo Monte no estado do Pará, pelo qual denunciam a expulsam da população indígena naquela localidade.
+T4	Argumento 751 925	Dessa forma, embora existam Órgãos protetores, como a Fundação Nacional do Índio – FUNAI e direitos previstos desde a Constituição de 1988, situações inconcebíveis acontecem.
+T5	Argumento 1282 1476	E como já dizia o antropólogo Darcy Ribeiro: “fomos nós que criamos o problema indígena”. Logo, é dever de Estado estabelecer diretrizes constitucionais sérias e eficazes aos povos tradicionais.
+T6	Argumento 1477 1646	Também, mais que uma questão de direitos é reconhecer que uma nação se consolida mediante seus valores históricos e a disseminação sociocultural dos povos constituintes.
+T7	PI 1915 2089	O Ministério da Cultura e seu então ministro Sérgio Sá Leitão devem elaborar centros especializados de monitoramento 24 horas em comunidades indígenas espalhadas pelo Brasil.
+T8	PI 2090 2257	Sendo assim, estudantes acadêmicos de Sociologia, História, Filosofia e áreas afins, fariam parte desses centros e ajudariam a desenvolver metodologias protecionistas.
+T9	PI 1047 1281	Por conseguinte, precisa haver um diagnóstico de situações concretas, buscando identificar e denunciar os descasos sofridos por eles, no entanto, a efetividade das ações dos Órgãos competentes apresenta deficiências nessas resoluções.
+R1	Suporte Arg1:T1 Arg2:T2	
+R2	Suporte Arg1:T3 Arg2:T2	
+R4	Suporte Arg1:T5 Arg2:T2	
+R5	Suporte Arg1:T6 Arg2:T2	
+R6	Suporte Arg1:T9 Arg2:T2	
+R7	Suporte Arg1:T7 Arg2:T2	
+R8	Suporte Arg1:T8 Arg2:T7	
+R3	Suporte Arg1:T4 Arg2:T3	

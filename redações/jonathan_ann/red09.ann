@@ -1,0 +1,19 @@
+T1	Tese 26 144	É notório que a internet é peça fundamental para o acesso de conteúdos como vídeos, mensagem, pesquisas, entre outros.
+T2	Tese 145 296	Além disso, ela consegue, por meio de algarismos e códigos, filtrar e transmitir ao usuário sugestões personalizadas de informações e páginas de sites.
+T3	Tese 297 435	Entretanto, essa autonomia da internet com o uso dos dados pode trazer uma certa manipulação de conteúdo e uma falsa impressão de escolha.
+T4	Argumento 436 690	Convém ressaltar que a internet é um dos meios usados para a divulgação de marcas e produtos pelas empresas e, para conseguir uma maximização de desempenho, é usado o banco de dados dos usuários para divulgar o produto de acordo com as suas preferências.
+T5	Argumento 913 1107	Analogamente, dados do IBGE mostram que mais de 80% dos jovens usam a internet para diversas finalidades como o envio de mensagem, recebimento de correio eletrônico e receber ligações de alguém.
+T6	Argumento 1108 1283	Além disso, a internet é usada como formadora de opinião e de gosto visto que pessoas com consensos divergentes expõem seus pensamentos na rede, influenciando a vida do jovem.
+T7	Argumento 1284 1388	Dessa maneira, dos propostos à certa pessoa podem manipulá-la devido a falta de controle de informações.
+T8	PI 1645 1843	Com o objetivo de tornar a internet mais segura para todos é necessário o uso consciente dessa ferramenta como também se vê necessário uma preocupação dos pais com o conteúdo oferecido ao seu filho.
+T9	PI 1844 1978	Deve-se ressaltar, através de palestras em escolas a necessidade do uso consciente e formas de prevenção contra a manipulação na rede.
+T10	PI 1979 2147	E é imprenscíndivel haver uma maior transparência dos sites e aplicativos com o uso dos dados do usuário. Dessa maneira será possível combater a manipulação a internet.
+R1	Suporte Arg1:T1 Arg2:T2	
+R2	Suporte Arg1:T2 Arg2:T3	
+R3	Suporte Arg1:T4 Arg2:T2	
+R7	Suporte Arg1:T8 Arg2:T3	
+R8	Suporte Arg1:T9 Arg2:T3	
+R9	Suporte Arg1:T10 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T2	
+R5	Suporte Arg1:T7 Arg2:T6	
+R6	Suporte Arg1:T6 Arg2:T3	

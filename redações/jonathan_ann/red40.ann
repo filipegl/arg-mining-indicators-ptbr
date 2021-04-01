@@ -1,0 +1,19 @@
+T1	Tese 340 525	Nesse contexto, pode-se dizer que o campo midiático tem o potencial de manipular a opinião pública, trazendo consequências nas decisões eleitorais, como o enfraquecimento da democracia.
+T2	Argumento 526 647	Em primeira instância, cabe pontuar que o uso do poder da informação para favorecer líderes políticos não é algo recente.
+T3	Argumento 648 927	Desde o século XX, durante a Segunda Guerra Mundial, as principais ferramentas de divulgação e enaltecimento da ideologia nazista eram as propagandas televisivas e jornalísticas, as quais difundiam informações de cunho político e ideológico para favorecer a imagem do presidente.
+T4	Argumento 928 1087	Sob esse ângulo, essa necessidade de culto ao líder corrobora às alterações de informações como forma de ampliar o impacto dessa propaganda na opinião pública.
+T5	Argumento 1088 1272	Dessa forma, a prática de modificar notícias para favorecer determinados interesses abre portas para o mais novo fenômeno da contemporaneidade, isto é, a divulgação de notícias falsas.
+T6	Argumento 1273 1399	Ademais, vale frisar que esse fenômeno justifica grande parte dos impasses políticos, já que a democracia acaba sendo afetada.
+T7	Argumento 1400 1694	Tal situação é evidente quando a sociedade perde sua liberdade de pensar por si só diante dos meios digitais que cada vez mais bombardeiam informações a fim de fazê-los pensar à maneira desses e, portanto, beneficiar interesses particulares, como por exemplo obter êxito em cargos de liderança.
+T8	Argumento 1695 1837	Sendo assim, as decisões políticas vão perdendo o caráter democrático e dando espaço a um viés mais oligárquico, isto é, favorecendo a poucos.
+T9	PI 2089 2329	Para isso, é imprescindível que as autoridades do poder legislativo elaborem projetos de lei voltados à fiscalização e punição de plataformas midiáticas que permitem a propagação de informações manipuladas, com o fito de evitar tal difusão.
+T10	PI 2330 2588	Além disso, as escolas, por meio dos seus educadores, devem orientar seus educandos a selecionar determinadas notícias, ou seja, de maneira a instigá-los a procurar diferentes fontes e analisar sua veracidade, sempre buscando manter o posicionamento crítico.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T1	
+R9	Suporte Arg1:T10 Arg2:T1	
+R5	Suporte Arg1:T7 Arg2:T6	
+R6	Suporte Arg1:T6 Arg2:T1	

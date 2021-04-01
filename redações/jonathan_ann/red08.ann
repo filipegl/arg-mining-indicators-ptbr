@@ -1,0 +1,7 @@
+T1	Tese 330 441	Logo, embora tenhamos noção dos algoritmos, além de usufruirmos do mesmo, ainda somos míopes ao lidar com elas.
+T2	Argumento 443 512	De inicio, vale ressaltar o quão benéfico para nós essa tecnologia é.
+T3	Argumento 1119 1214	Infelizmente já estamos presos a esse modo de consumir baseado no que já consumimos e gostamos.
+T4	PI 1718 2004	Para que o indivíduo se torne o super-homem de Nietzsche e largue o senso comum, o governo através dos Ministérios da Educação e Comunicação devem fazer parcerias com a mídia em que propagandas com o intuito de nos informar seriam veiculados em pelo menos um comercial em horário nobre.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T1	
+R3	Suporte Arg1:T4 Arg2:T1	

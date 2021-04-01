@@ -1,0 +1,17 @@
+T1	Tese 291 481	Nesse contexto, pode-se afirmar que é incontrovertível a participação das autoridades públicas na manutenção desses patrimônios, pois, do contrário, os provectos educativos terão retrocesso.
+T2	Argumento 482 607	Em primeira instância, cabe pontuar que o patrimônio histórico é de suma importância no desenvolvimento intelectual do homem.
+T3	Argumento 608 914	Sob a ótica da célebre frase do filósofo Immanuel Kant: “O ser humano é aquilo que a educação faz dele”, tem-se os elementos históricos- fósseis, documentos, arquitetura, obras- como fatores imprescindíveis na composição da identidade humana, visto que o homem consegue resgatar resquícios de suas origens.
+T4	Argumento 915 1008	Dessa forma, percebe-se o impacto positivo que o acervo histórico causa no campo educacional.
+T5	Argumento 1009 1186	Ademais, convém frisar que sem reparos para manutenção desses patrimônios, sua infraestrutura, aos poucos, vai se comprometendo e tornando-se vulnerável aos impactos antrópicos.
+T6	Argumento 1187 1390	Isso é evidente pelo que ocorreu em setembro, no Brasil, quando o incêndio tomou conta do Museu Nacional no Rio de Janeiro, evidenciando, portanto, a falta de políticas públicas para evitar tal desastre.
+T7	Argumento 1391 1492	Sendo assim, a fragilidade dos espaços antigos tem como rastilho o abandono das autoridades públicas.
+T8	PI 1714 1915	Para isso, o governo federal, em parceria com o Ministério da Cultura deve ampliar investimentos na manutenção da infraestrutura de instituições históricas para que gerações futuras possam ter contato.
+T9	PI 1916 2052	Além disso, as escolas devem promover palestras acerca da importância dos patrimônios históricos na formação intelectual dos indivíduos.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T1	
+R8	Suporte Arg1:T9 Arg2:T1	

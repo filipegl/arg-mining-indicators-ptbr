@@ -1,0 +1,9 @@
+T1	Tese 306 549	Num passado recente, o cenário brasileiro não se diferencia tanto daquele do filme, visto que a pobreza empurra os infantes para o mundo do crime, mas também a flexibilização das leis os incentivam a permanecer com esses comportamentos torpes.
+T2	Argumento 550 769	Em primeira análise, é preciso reconhecer que nessa idade os indivíduos são vulneráveis sentimentalmente e que a pobreza agrava essa condição a qual torna-se uns dos canais para recrutamento para o tráfico, por exemplo.
+T3	Argumento 770 913	O clamor social pela redução da maioridade penal é mais uma evidência do quanto a criminalidade tem seduzido milhares de jovens e adolescentes.
+T4	Argumento 1089 1343	Seguindo esta ótica, as leis brasileiras bem como os agentes de segurança contribuem para a permanência dos jovens na criminalidade, sobretudo pela reincidência de crimes, visto que as interpretam de forma que facilita a saída dos infratores da reclusão.
+T5	PI 1878 2310	Por isso, o Congresso Nacional precisa trabalhar para a adequação das leis à realidade brasileira, como alterar as regras de regressão de pena e aperfeiçoamento do ECA; já as secretárias de educação, dos estados e municípios, precisam fomentar mais políticas públicas que aumentem o envolvimento dos jovens com o esporte porque assim os infantes podem sonhar com a mesma vida digna sonhada pelo treinador Carter para seus liderados.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T1	
+R3	Suporte Arg1:T4 Arg2:T1	
+R4	Suporte Arg1:T5 Arg2:T1	

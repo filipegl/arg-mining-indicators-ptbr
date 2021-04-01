@@ -1,0 +1,11 @@
+T1	Tese 184 394	Essa realidade brasileira segue a mesma tendência dos demais países emergentes cujas desigualdades sociais somadas à omissão do Estado impulsionam a iniciação cada vez mais precoce dos jovens no mundo do crime.
+T2	Argumento 396 645	Apesar do Brasil, na atualidade, encontrar-se entre os países com maior produção de riqueza, dados do IBGE (Instituto Brasileiro de Geografia e Estatística) apontam que a maior parcela desta riqueza concentra-se entre os 10% mais ricos da população.
+T3	Argumento 646 791	Neste cenário, muitos jovens brasileiros em situação de risco veem o crime como única oportunidade de superarar a pobreza e ascender socialmente.
+T4	Argumento 793 976	Não suficiente, o descaso do governo acerca dos assuntos que tangem à educação e a aplicação das políticas de inclusão colaboram ainda mais para o aumento desta taxa de criminalidade.
+T5	Argumento 1283 1480	Dessa forma, as causas para o aumento da criminalidade entre os jovens brasileiros são múltiplas, mas possui como pilar principal a desigualdade social amparada na omissão e ineficiência do Estado.
+T6	PI 1481 1775	Para superar esse quadro de violência as políticas de inclusão não bastam, deve haver políticas que visem a melhor redistribuição de renda no país e incentivos que busquem a melhoria do sistema básico do ensino público, assim como também, a capacitação destes jovens para o mercado de trabalho.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T1	
+R3	Suporte Arg1:T4 Arg2:T3	

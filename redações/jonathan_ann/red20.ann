@@ -1,0 +1,17 @@
+T1	Tese 318 492	Nesse contexto, pode-se afirmar que esse conjunto de bens históricos está atrelado a formação intelectual do indivíduo, no entanto, à margem dos investimentos governamentais.
+T2	Argumento 493 651	Em primeira instância, cabe pontuar que grande parte do conhecimento que se tem na contemporaneidade é devido aos elementos históricos materiais e imateriais.
+T3	Argumento 652 950	O escritor Gilberto Freyre já afirmava que sem um fim social, o saber seria a maior das futilidades e, aplicando essa ideia ao patrimônio histórico, esse atende o objetivo social a partir do momento em que ele permite o surgimento de teorias que levam o homem a entender cada vez mais suas origens.
+T4	Argumento 951 1132	Exemplo disso é a teoria da evolução de Charles Darwin que, sem todo o acervo de documentos históricos e fósseis de animais, não seria possível a continuidade dos estudos provectos.
+T5	Argumento 1133 1295	Ademais, convém frisar que instituições históricas espalhadas por todo o mundo se encontram fora de programas de proteção e sem investimentos para sua manutenção.
+T6	Argumento 1296 1472	Um grande exemplo emblemático disso foi o que ocorreu com o Museu Nacional no Rio de Janeiro, o qual foi incendiado e extinguiu praticamente todos os seus elementos históricos.
+T7	Argumento 1473 1626	Tal acontecimento teve como rastilho o abandono das autoridades públicas que não investiram em infraestrutura necessária para evitar acidentes como esse.
+T8	PI 1628 1735	Destarte, faz-se necessária a mobilização de agentes competentes para solucionar os problemas supracitados.
+T9	PI 1736 1996	Para isso, é imprescindível que o governo, em parceria com o Ministério da Cultura, desenvolva políticas de proteção ao patrimônio, permitindo a preservação e fiscalizando qualquer tipo de tentativa de depredação ou vandalismo, instalando câmeras e vigilantes.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T1	
+R8	Suporte Arg1:T9 Arg2:T1	

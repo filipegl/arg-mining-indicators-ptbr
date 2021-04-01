@@ -1,0 +1,15 @@
+T1	Tese 251 561	É inegável que na contemporaneidade as fakes news afetam de modo extraordinário a rotina dos brasileiros, fazendo com que o ano de eleições presidenciais sejam cheios de manipulações e fakes news, necessitando de medidas para que essa prática se torne extinta e o meio social passe a ser harmônico e confiável.
+T2	Argumento 562 782	Em primeiro lugar, é imprescindível ressaltar que as hoax, que são as notícias falsas, mudam o pensamento do leitor, transformando em um grande potencial em época de eleições presidenciais, já que podem manipular o povo.
+T3	Argumento 783 990	Nesse contexto, o ''Mito da Caverna'', do filósofo Platão, afirma que o morador que sair da ignorância tem o dever de avisar os indivíduos sobre a verdade, isto é, esclarecer que determinado fato não existe.
+T4	Argumento 991 1187	Isto posto, é notório que quando relacionado à fake news essa ação se torna obsoleta, já que o próprio canal que deveria informar a população possui como objetivo o contrário, que é a manipulação.
+T5	Argumento 1188 1387	Em segundo lugar, as mídias sociais são de extrema importância em ano eleitorais, pois têm como objetivo e potencial a massificação de determinada informação, atingindo um grande público de leitores.
+T6	Argumento 1388 1711	Isso, consoante ao pensamento de A. Schopenhauer de que os limites do campo da visão de uma pessoa determinam seu entendimento a respeito do mundo que a cerca, faz das mídias sociais o campo ideal para um político, já que utilizam das hoax para disseminarem um conteúdo ideológico, político e cultural que não é verdadeiro.
+T7	PI 1839 2107	Para isso, o Governo, por meio do Ministério da Comunicação aliado aos meios de disseminação em massa, como a rádio, televisão e internet, deve informar a população para analisar as informações e notícias recebidas, já que estas podem estar manipuladas ou adulteradas.
+T8	PI 2108 2351	Além disso, cabe ao indivíduo, como ser social e voluntário, fiscalizar se determinado canal possui alguma notícia falsa e, caso possua, denunciar ao Ministério Público (MP), para que o meio social seja altruísta e, principalmente, verdadeiro.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R6	Suporte Arg1:T7 Arg2:T1	
+R7	Suporte Arg1:T8 Arg2:T1	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T5	

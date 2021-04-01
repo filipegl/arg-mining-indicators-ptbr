@@ -1,0 +1,21 @@
+T1	Tese 654 789	Tornando-se, necessários muitos investimentos financeiros para a manutenção do mesmo, mas, por que investir na preservação de um museu?
+T2	Argumento 791 837	Porque nele reside a história de vários povos.
+T3	Argumento 838 1005	Mediante ao patrimônio material que são as construções, obeliscos, esculturas, museológico e acervos documentais é possível entrar em contato com a cultura de um povo.
+T4	Argumento 1006 1158	Portanto é estritamente importante a preservação do patrimônio cultural pois, nele é possível refletir e então compreender o passado de uma civilização.
+T5	Argumento 1159 1310	Cada geração que entra em contato com o museu tem a oportunidade de criar novas pesquisas a partir de um objeto documentado ou da coleção de um erário.
+T6	Argumento 1311 1493	Logo, é um espaço ideal para estimular a curiosidade, debates, promover a socialização e os princípios da cidadania, e colaborar para a sustentabilidade das transformações culturais.
+T7	Argumento 1495 1714	No entanto, no 02 de setembro de 2018 no Rio de Janeiro, um incêndio destruiu o bicentenário Museu Nacional, que antes de tornar-se uma instituição de pesquisa, em 1892, foi ocupado pela família real, entre 1808 e 1889.
+T8	Argumento 1715 1889	Levando a ruínas a coleção de 20 milhões de itens do museu, abarcado do Brasil pré-histórico ao período monárquico, além dos inúmeros artefatos de diversas culturas do mundo.
+T9	Argumento 1890 2091	Sendo uma perda inestimável não somente para a população brasileira, mas mundial, visto que milhares de pessoas ainda não tinham tido a oportunidade de conhecer o museu e agora muitas outras não terão.
+T10	PI 2093 2442	Torna-se, evidente após o incidente com Museu no Rio de Janeiro a necessidade de investimentos por meio dos governantes que visem a proteção a esses monumentos históricos por meio de fiscalizações nas instalações elétricas, verificação nas condições estruturais e reformas quando necessárias, para que outros incidentes como esse não venham ocorrer.
+T11	PI 2443 2792	Também é necessária uma maior valorização dos museus no Brasil, investimento em publicidade por intermédio de propagandas que mostre as riquezas culturais do Brasil, assim possibilitando um maior fluxo turístico, aumentando a economia do país e possibilitando que a população tenha maiores oportunidade de conhecer a diversidade cultural brasileira.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T2	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T1	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T7	
+R9	Suporte Arg1:T10 Arg2:T1	
+R10	Suporte Arg1:T11 Arg2:T1	
+R4	Suporte Arg1:T5 Arg2:T4	

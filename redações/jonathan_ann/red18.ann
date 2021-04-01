@@ -1,0 +1,25 @@
+T1	Tese 19 138	Segundo o pensamento do filosófo irlândes Edmund Burke, um povo que não conhece a sua história está fadado a repeti-la.
+T2	Tese 139 246	Portanto, é fundamental conhecer a história brasileira, a fim de compreender a formação da sociedade atual.
+T3	Tese 247 396	Nesse contexto, entende-se a necessidade de valorizar os agentes históricos de uma nação e, em especial, os patrimônios materiais que os representam.
+T4	Tese 397 584	Entretanto, sabe-se que o descaso estatal e o desconhecimento da população brasileira frente a sua composição histórica ameaçam diretamente a valorização do patrimônio histórico nacional.
+T5	Argumento 662 807	Consoante Mortimer Jerome Adler no livro “A arte de ler”, um sistema educacional e a cultura em que existem tendem a perpetuar-se reciprocamente.
+T6	Argumento 808 985	Nesse sentido, observa-se que o número de brasileiros que visitaram o Museu do Louvre em Paris em 2017 foi superior ao número total de visitantes no Museu Nacional no mesmo ano.
+T7	Argumento 986 1161	Tal fato deve-se a ignorância de parte da população em relação a riqueza histórica do Brasil e a abordagem abstrata da história em sala de aula, limitada aos livros didáticos.
+T8	Argumento 1162 1259	Ademais, o patrimônio histórico de uma nação deve ser preservado em virtude das gerações futuras.
+T9	Argumento 1260 1357	Assim, o processo de identificação da identidade nacional de cada cidadão torna-se mais dinâmico.
+T10	Argumento 1358 1564	Todavia a improbidade administrativa verificada em museus, bibliotecas e outras instituições que correspondem ao patrimônio histórico brasileiro mostra-se como uma ameaça a manutenção da história no Brasil.
+T11	Argumento 1565 1726	O incêndio no Museu Nacional e a falta de recursos para essas instituições mostram o descaso estatal no tocante a valorização dos agentes históricos brasileiros.
+T12	PI 1839 2003	Desse modo, o governo deve promover uma parceria público-privada com o intuito de arrecadar recursos voltados diretamente para a conservação da história brasileira.
+T13	PI 2004 2196	Nas escolas e universidades, o Ministério da Educação deve incentivar visitas aos museus e as cidades históricas, como Salvador, na Bahia, e Ouro Preto, localizada no interior de Minas Gerais.
+R1	Suporte Arg1:T1 Arg2:T2	
+R2	Suporte Arg1:T2 Arg2:T3	
+R3	Suporte Arg1:T3 Arg2:T4	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T4	
+R8	Suporte Arg1:T9 Arg2:T8	
+R9	Suporte Arg1:T10 Arg2:T4	
+R10	Suporte Arg1:T11 Arg2:T10	
+R11	Suporte Arg1:T12 Arg2:T4	
+R12	Suporte Arg1:T13 Arg2:T4	

@@ -1,0 +1,17 @@
+T1	Tese 280 468	Nesse contexto, é preciso enfrentar o fenômeno da propagação de notícias falsas, pois, do contrário, decisões desprovidas de senso crítico irão compor o cenário das eleições presidenciais.
+T2	Argumento 469 646	Em primeira instância, cabe pontuar que a viralização de informações equivocadas nos meios de comunicação “aprisiona” o indivíduo tal qual a caverna citada pelo filósofo Platão.
+T3	Argumento 647 875	Aplicando essa didática platônica, isto é, o mito da caverna ao fenômeno das “fake news”, entende-se que essa metáfora transforma a mídia na caverna pós-moderna, retratando a cegueira intelectual que assola cada vez mais o país.
+T4	Argumento 1086 1211	Dessa forma, a propagação de conteúdos errôneos corrobora para uma geração de pessoas com visões restritas e preconceituosas.
+T5	Argumento 1212 1399	Ademais, vale frisar que a disseminação desses conteúdos equivocados pode ser usado como uma tática para favorecer determinadas ideologias ou mesmo pessoas que visam aos cargos políticos.
+T6	Argumento 1400 1631	Isso foi notório durante as eleições do atual presidente dos Estados Unidos, Donald Trump, nas quais se difundiu diversas notícias enaltecedoras do líder, seduzindo os eleitores nas duas decisões, segundo o site de notícia El país.
+T7	Argumento 1632 1768	Sendo assim, as notícias midiáticas, se não reguladas podem impactar nas decisões dos eleitores, sobrepondo o pensamento críticos desses
+T8	PI 1871 2098	É imprescindível, portanto, que órgãos do governo criem projetos de lei no que tange a criminalização de notícias falsas e que haja punição aos propagadores dessas notícias a fim de que as pessoas não tenham mais acesso a elas.
+T9	PI 2099 2423	Além disso, setores da educação- escolas e universidades- principais meios de instrução, devem instigar os jovens a buscar informações em diferentes fontes de notícias, por meio de indicação de sites confiáveis e diversos, com o fito de fazê-los manter posicionamento crítico e, assim, atuarem melhor nas decisões políticas.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T1	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T1	
+R8	Suporte Arg1:T9 Arg2:T1	

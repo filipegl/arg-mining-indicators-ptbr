@@ -1,0 +1,19 @@
+T1	Tese 161 351	Com efeito, ocorre o problema da disseminação em massa de notícias falsas que, muitas vezes, prejudicam a cobertura profissional da imprensa, principalmente em ano de eleições presidenciais.
+T2	Argumento 435 597	Não é incomum, diariamente, receber informações inverídicas via redes sociais, apesar de as mídias socias serem usadas como ferramenta de trabalho de jornalistas.
+T3	Argumento 598 857	Assim, na maiorias das vezes, nem todos filtram o conteúdo que recebem nem mesmo interpretam a notícia sobre o candidato ou leem até o final, compartilhando informações falsas e criando uma enorme cadeia de mentiras no sistema global de redes de computadores.
+T4	Argumento 858 950	Ademais, em uma realidade política "pós-verdade", a relevância das notícias falsas aumentou.
+T5	Argumento 951 1125	Quando não patrocinadas por pessoas envolvidas por adversários políticos, são financiadas pela "indústria de cliques", criada pelas grandes plataformas de propaganda digital.
+T6	Argumento 1126 1340	Elas reforçam algum ideal político ajudando a fortalecer crenças que são geralmente apelativas emocionalmente, por isso, os usuários compartilham e comentam, amplamente, antes mesmo de checar as fontes verdadeiras.
+T7	Argumento 1341 1670	Dessa forma, a partir de um dos conceitos filosóficos de Francis Bacon de que o comportamento do homem é contagioso, vê-se a aplicação na distribuição deliberada de conteúdos falsos e boatos pela "internet", não levando em conta a veracidade dos fatos publicados, de maneira que esse comportamento torna-se enraizado e frequente.
+T8	PI 1873 2123	O Estado, por meio da criação de um comitê para checar informações falsas veiculadas na internet, pode informar à empresa responsável pela hospedagem do site, e, como consequência, bloquear a fonte de renda dos indivíduos que fazem este tipo de ação.
+T9	PI 2124 2266	A sociedade deve colaborar capacitando os cidadãos, através de oficinas e cursos gratuitos, a identificar e filtrar conteúdos falsos na "web".
+T10	PI 2267 2632	Cabe as mídias sociais auxiliarem seus usuários, conscientizando quanto ao compartilhamento de boatos e mentiras na rede, denunciando essas notícias falsas como spam e punindo os autores com o bloqueio de suas contas nas respectivas redes sociais, para, assim, sustar o fluxo de notícias não verdadeiras na "internet", visando o bem-estar da sociedade como um todo.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T1	
+R4	Suporte Arg1:T5 Arg2:T4	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T1	
+R8	Suporte Arg1:T9 Arg2:T1	
+R9	Suporte Arg1:T10 Arg2:T1	

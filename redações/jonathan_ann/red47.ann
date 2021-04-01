@@ -1,0 +1,25 @@
+T1	Tese 411 634	Em uma sociedade culturalmente patriarcal arraigada de machismo, preconceito e conservadorismo, faz-se necessário debates sobre a violência contra a mulher e os métodos com maiores probabilidades para resolver esse empasse.
+T2	Argumento 635 711	A taxa de homicídios, estupros, e violência doméstica é altíssima no Brasil.
+T3	Argumento 712 1025	Isso se deve aos ensinamentos conservadores passados a gerações, as mulheres são educadas a serem submissas e o homem para ser o líder da casa, em alguns casos esse padrão pode possibilitar a desvalorização da mulher por sua aparência física e passividade, por meio de agressões físicas, humilhações e difamações.
+T4	Argumento 1026 1209	Muitas mulheres vivem anos nesse contexto por inúmeros motivos, como filhos pequenos, medo do julgamento ao pedir ajuda e muitas ao tentar solicitar assistência, morrem nesse cenário.
+T5	Argumento 1210 1280	Essa violência pode advir do companheiro, ex-companheiro e familiares.
+T6	Argumento 1281 1492	A lei Maria da Penha diminui cerca de 10% a taxa de homicídios contra as mulheres dentro das residências, o que significa que essa lei foi responsável por evitar milhares de casos de violência doméstica no País.
+T7	Argumento 1493 1757	No entanto, mulheres ainda morrem com a medida preventiva nas mãos, pois deveria ser oferecido apoio multidisciplinar, inclusive psicológico e financeiro, para que a mulher possa tomar a decisão de romper a relação abusiva e tenha condições de se manter fora dela.
+T8	Argumento 1758 1905	Muitas mulheres sofrem violações por desconhecidos em lugares públicos e como argumento usa-se as vestimentas curtas, locais impróprios e horários.
+T9	Argumento 1906 2017	São tratadas como meros objetos descartáveis, no qual o agressor ignora qualquer trauma advindo desse episódio.
+T10	Argumento 2757 2869	Na fala de Jean-Paul Sartre: “A violência, seja qual for a maneira como ela se manifesta, é sempre uma derrota".
+T11	PI 2018 2221	Ademais, torna-se necessário mecanismos mais eficazes em defesas das mulheres, desde treinamentos de policiais para um melhor acolhimento, a assistência psicológica tanto a vítima quanto para o agressor.
+T12	PI 2222 2344	Sensibilização por intermédio dos meios de comunicação, na tevê através das novelas, visto que é de grande comoção social.
+T13	PI 2345 2756	É necessário uma mudança no ensinamentos das crianças realizadas não somente nas escolas, mas também no lar, para isso ocorrer é necessário palestras com psicólogos e professores como forma de orientar os pais a educar os filhos de maneira igualitária visando o respeito, para que as raízes patriarcais, e a descriminação estabelecida por vários séculos comesse a diminuir e seja possível uma futura estagnação.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R4	Suporte Arg1:T5 Arg2:T4	
+R6	Suporte Arg1:T7 Arg2:T6	
+R7	Suporte Arg1:T8 Arg2:T7	
+R8	Suporte Arg1:T9 Arg2:T8	
+R9	Suporte Arg1:T10 Arg2:T9	
+R10	Suporte Arg1:T11 Arg2:T1	
+R11	Suporte Arg1:T12 Arg2:T11	
+R12	Suporte Arg1:T13 Arg2:T11	
+R5	Suporte Arg1:T6 Arg2:T1	

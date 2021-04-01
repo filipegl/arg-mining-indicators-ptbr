@@ -1,0 +1,17 @@
+T1	Tese 361 506	Nesse âmbito, é possível notar que a saúde mental e as influências contemporâneas são de suma importância para a decisão de tirar a própria vida.
+T2	Argumento 507 609	De um lado a saúde mental é um fator de extrema relevância na vida do indivíduo que vive em sociedade.
+T3	Argumento 610 779	Com o aumento do suicídio entre os jovens problemas como depressão, relacionamentos e situações desfavoráveis são um gatilho para que o óbito seja uma escolha plausível.
+T4	Argumento 780 875	No filme “Como salvar uma vida”, podemos observar como o bullying é prejudicial à saúde mental.
+T5	Argumento 1096 1231	De outro lado como vivemos em mundo globalizado, cresce exponencialmente o número de influenciadores, que inspiram as atitudes dos fãs.
+T6	Argumento 1508 1633	Pode-se perceber, portanto, que o problema do suicídio dos jovens brasileiros é importante e deve ser combatido na sociedade.
+T7	PI 984 1094	Dessa maneira é importante que os ambientes como trabalho, escola, estejam promovendo a socialização de todos.
+T8	PI 1374 1505	Por isso é de indelével valor que haja policiamento dos pais com os jovens na internet e qualquer tipo de apologia seja erradicada.
+T9	PI 1634 1871	Medidas devem ser tomadas como promover a socialização; grupos de apoio para aqueles que precisam melhorar a saúde mental; limites para menores na internet; importante o policiamento de agências em tudo que tenha o suicídio como assunto.
+R1	Suporte Arg1:T2 Arg2:T1	
+R2	Suporte Arg1:T3 Arg2:T2	
+R3	Suporte Arg1:T4 Arg2:T3	
+R5	Suporte Arg1:T6 Arg2:T5	
+R6	Suporte Arg1:T7 Arg2:T1	
+R7	Suporte Arg1:T8 Arg2:T1	
+R8	Suporte Arg1:T9 Arg2:T1	
+R4	Suporte Arg1:T5 Arg2:T1	
